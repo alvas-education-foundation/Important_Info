@@ -1,3 +1,4 @@
 # Note to all our Members
 
-## Set your profile visibilty to public. And DO NOT use your USN as your GitHub username.
+## Set your profile visibility to 'Public'. 
+## And DO NOT use your USN as your GitHub username.

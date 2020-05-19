@@ -11,8 +11,8 @@ Add that repo to your respective sub-team ( 2nd year or 3rd year ) and provide w
 ( it is available in Repository settings -> Manage Access )
 
 And ask students to clone this Repo, and create folders with their name and USN.
-For Example :
 
+For Example :
 Inside the Repo, student folders can look like this
 4AL15IS000_Chandan_Shastri
 

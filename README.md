@@ -4,7 +4,8 @@
 ### And DO NOT use your USN as your GitHub username.
 
 ## Repo Guidelines :
-Please create Repos beginning with your Branch name,
+Please create Repos beginning with your Branch name :
+
 Example Repo name : ISE_Mini_Projects_2019
 
 Add that repo to your respective sub-team ( 2nd year or 3rd year ) and provide write access for that team only.

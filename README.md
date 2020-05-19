@@ -23,6 +23,12 @@ You can have a look at this Repo to understand the structure I am talking about 
 
 https://github.com/alvas-education-foundation/ISE_Mini_Projects_3rd_Year
 
+## Daily Reports 
+
+Faculties can create one more Repo for Daily Reports in the same fashion. 
+
+It will reduce the clutter on Slack, and will be far more easier for faculties / students to keep track of the things.
+
 ## Git Basics 
 
 If you don't know the basics of Git, please read this concise guide made by @rakeshmr20 

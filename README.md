@@ -19,6 +19,9 @@ Inside the Repo, student folders can look like this
 
 It will be consistent and will be easy for all the faculty members to monitor.
 
+You can have a look at this Repo to understand the structure I am talking about :
+https://github.com/alvas-education-foundation/ISE_Mini_Projects_3rd_Year
+
 ## Git Basics 
 
 If you don't know the basics of Git, please read this concise guide made by @rakeshmr20 

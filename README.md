@@ -27,7 +27,7 @@ https://github.com/alvas-education-foundation/ISE_Mini_Projects_3rd_Year
 
 Faculties can create one more Repo for Daily Reports in the same fashion. 
 
-It will reduce the clutter on Slack, and will be far more easier for faculties / students to keep track of the things.
+It will reduce the clutter on Slack, and will be easier for faculties / students to keep track of the things.
 
 ## Git Basics 
 

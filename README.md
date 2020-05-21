@@ -29,8 +29,15 @@ Faculties can create one more Repo for Daily Reports in the same fashion.
 
 It will reduce the clutter on Slack, and will be easier for faculties / students to keep track of the things.
 
+You can use this Repo as a Starting Point :
+https://github.com/alvas-education-foundation/Status_Updates
+
 ## Git Basics 
 
 If you don't know the basics of Git, please read this concise guide made by @rakeshmr20 
 
 https://github.com/alvas-education-foundation/ISE_4th_Year_Coding_challenge/blob/master/README.md 
+
+## Any further doubts..?
+
+For any clarifications, reach out to <a target='_blank' href='https://instagram.com/chandanrshastri'>Chandan Shastri</a>
